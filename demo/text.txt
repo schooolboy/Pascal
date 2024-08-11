@@ -1,0 +1,11 @@
+program abc;
+		var a : word;
+		begin
+		a:= (45 * 80 - 1000 * 4) * 2 + 801;
+		if (a = 0) or ( 45 < 44) then
+		write(a = 0);
+		write('e');
+		if (a = 1) and ((32 > a) and (0 <> 5)) then
+		write(a = 1);
+		write('e');
+		end.
